@@ -7,9 +7,10 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="600" width ="600" src ="https://user-images.githubusercontent.com/25933386/212493623-5de5d380-dc38-4a67-bd97-6a1b0dd2f628.JPG" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-Layout" height ="700" width ="700" src ="https://user-images.githubusercontent.com/25933386/212493623-5de5d380-dc38-4a67-bd97-6a1b0dd2f628.JPG" style="max-width: 100%;"></img>
 </a>
 
+##
 <a href="#">
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>

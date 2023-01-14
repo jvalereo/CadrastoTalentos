@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CadastroTalento": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

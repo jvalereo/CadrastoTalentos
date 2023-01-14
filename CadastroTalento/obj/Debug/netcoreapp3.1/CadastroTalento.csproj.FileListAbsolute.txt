@@ -1,0 +1,16 @@
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\bin\Debug\netcoreapp3.1\CadastroTalento.exe
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\bin\Debug\netcoreapp3.1\CadastroTalento.deps.json
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\bin\Debug\netcoreapp3.1\CadastroTalento.runtimeconfig.json
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\bin\Debug\netcoreapp3.1\CadastroTalento.runtimeconfig.dev.json
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\bin\Debug\netcoreapp3.1\CadastroTalento.dll
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\bin\Debug\netcoreapp3.1\CadastroTalento.pdb
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\obj\Debug\netcoreapp3.1\CadastroTalento.csproj.AssemblyReference.cache
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\obj\Debug\netcoreapp3.1\CadastroTalento.Form1.resources
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\obj\Debug\netcoreapp3.1\CadastroTalento.csproj.GenerateResource.cache
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\obj\Debug\netcoreapp3.1\CadastroTalento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\obj\Debug\netcoreapp3.1\CadastroTalento.AssemblyInfoInputs.cache
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\obj\Debug\netcoreapp3.1\CadastroTalento.AssemblyInfo.cs
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\obj\Debug\netcoreapp3.1\CadastroTalento.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\obj\Debug\netcoreapp3.1\CadastroTalento.dll
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\obj\Debug\netcoreapp3.1\CadastroTalento.pdb
+C:\Users\Jonas Programador\source\repos\CadastroTalento\CadastroTalento\obj\Debug\netcoreapp3.1\CadastroTalento.genruntimeconfig.cache

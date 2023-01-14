@@ -7,7 +7,7 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="700" width ="700" src ="https://user-images.githubusercontent.com/25933386/212493623-5de5d380-dc38-4a67-bd97-6a1b0dd2f628.JPG" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-Layout" height ="700" width ="700" src ="https://user-images.githubusercontent.com/25933386/212493899-1ca96f2e-4566-45a7-b1dd-a88285338738.JPG" style="max-width: 100%;"></img>
 </a>
 
 # Logo C#

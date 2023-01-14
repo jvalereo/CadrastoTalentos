@@ -24,7 +24,7 @@
 # Sobre o Projeto
 
 - PROJETO 2º MODULO: EXERCICIO DO CURSO - CURSO TÉCNICO EM INFORMÁTICA - ETESP
-- Projeto basico de CSharp em Laboratório , desenvolver  um sistema basico, Cadastro de Talaentos, onde simula, inserindo dados da pessoa online no sistema, esse programa não tem banco de dados sua implementação é executado no localhost, na maquina local.
+- Projeto basico de CSharp em Laboratório , desenvolver  um sistema basico, Cadastro de Talentos, onde simula, inserindo dados da pessoa no sistema, esse programa não tem banco de dados sua implementação é executado no localhost, na maquina local.
 - O importante foi o aprendizado, e o conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento em sistema em 2015
 - INSTITUIÇÃO DE ENSINO: ETEC DE SÃO PAULO - 2º Modulo do Curso Técnico em Informática
 - Data:  03/04/2015

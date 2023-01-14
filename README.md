@@ -7,7 +7,7 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="600" width ="500" src ="https://user-images.githubusercontent.com/25933386/212493623-5de5d380-dc38-4a67-bd97-6a1b0dd2f628.JPG" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-Layout" height ="600" width ="600" src ="https://user-images.githubusercontent.com/25933386/212493623-5de5d380-dc38-4a67-bd97-6a1b0dd2f628.JPG" style="max-width: 100%;"></img>
 </a>
 
 <a href="#">

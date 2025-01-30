@@ -39,6 +39,7 @@
 # Como Executa o Projeto
 
 - Executa na sua IDE de preferencia
+- Visual Studio - VsCode
 
 # Autor
 

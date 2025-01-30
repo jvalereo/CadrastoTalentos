@@ -6,12 +6,12 @@
 
 ##
 
-<a href="#">
+<a target="_blank">
 <target=_blank><img align="center"  alt="jonas-Layout" height ="700" width ="700" src ="https://user-images.githubusercontent.com/25933386/212493899-1ca96f2e-4566-45a7-b1dd-a88285338738.JPG" style="max-width: 100%;"></img></target>
 </a>
 
 # Logo C#
-<a href="#">
+<a target="_blank">
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
 
